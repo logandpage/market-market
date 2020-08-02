@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Style Start */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,11 +46,13 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Header Style End */
 
 p {
     font-size: 16px;
 }
 
+/* Content Style Starts */
 .hero {
     height: 800px;
     width: 100%;
@@ -187,7 +190,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Content Style Ends */
 
+/* Footer Style Starts */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +203,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Style Ends */
