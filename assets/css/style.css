@@ -192,6 +192,25 @@ p {
 }
 /* Content Style Ends */
 
+/* Solutions */
+.problems {
+    padding: 20px;
+}
+
+.problems h3{
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #2589bd;
+
+}
+
+.problems h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* Footer Style Starts */
 .footer {
     padding: 30px;
